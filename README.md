@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @gpotter2
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-gpotter2/gpotter2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Stuff I work on:
+- [secdev/scapy](https://github.com/secdev/scapy) as a maintainer
+- [lambda-local](https://github.com/ashiina/lambda-local) as a maintainer
