@@ -5,3 +5,5 @@ I'm the lead maintainer of [secdev/scapy](https://github.com/secdev/scapy), one 
 Other related projects :
 - [gpotter2/scapy-red](https://github.com/gpotter2/scapy-red) - more offensive tooling aimed at Windows networks that uses Scapy;
 - [gpotter2/scapy-rpc](https://github.com/gpotter2/scapy-rpc) - a compiler of MIDL to use Microsoft's DCE/RPC with Scapy.
+
+I also have a blog which I sometimes post in, mostly about networking. Feel free to take a look: https://gpotter2.github.io/ 
